@@ -1,3 +1,3 @@
 - 👋 Hi, I’m kim
-- 👀 Python
+- 👀 Python / FastAPI / RDBMS
 - 🌱 I’m currently learning Python 
