@@ -7,6 +7,4 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 
 
-- 👋 Hi, I’m kim
-- 👀 Python / FastAPI / RDBMS
-- 🌱 I’m currently learning Python 
+- 👋 안녕하십니까 백엔드 개발자 김형규입니다
